@@ -18,6 +18,8 @@ For the elaboration of the grade project, the CICFlowMeter extractor was modifie
 
 <a href="https://github.com/ahlashkari/CICFlowMeter">CICFlowMeter V4.0<a/>
 
-## CICFlowMeter modified with 29 new traffic characteristics
+## CICFlowMeter modified
 
+The CICFlowMeter was modified where 29 new traffic characteristics were added with the purpose to analyze the performance between the 2 version of the extractor
+  
 <a href="https://github.com/SantiagoGuiral/Grade-project-UdeA-CICFlowMeter-Modification">Modified CICFlowMeter<a/>
